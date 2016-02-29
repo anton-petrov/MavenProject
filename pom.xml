@@ -84,7 +84,7 @@
           </execution>
         </executions>
       </plugin>
-      <!-- Includes the runtime dependencies -->
+      <!-- Include the runtime dependencies -->
       <plugin>
         <groupId>com.jolira</groupId>
         <artifactId>onejar-maven-plugin</artifactId>
